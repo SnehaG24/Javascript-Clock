@@ -1,0 +1,50 @@
+.contanier {
+
+    background-color: rgb(245, 243, 239);
+    border-radius: 10px;
+    
+}
+
+
+li {
+    margin-top: 10px;
+}
+
+.jumbotron {
+    text-align: center;
+    width: 70vw;
+    border-radius: 120px;
+
+}
+
+.display-4 {
+    font-size: 40px;
+    
+}
+
+.p1 {
+    font-size: 30px;
+}
+
+.div1 {
+    /* width:70vw; */
+    margin-left: 200px;
+    margin-top: 60px;
+    /* position: relative;
+    left: 190px; */
+    /* transform: translate(200px,60px); */
+
+}
+
+body {
+    background-image: url("/jon-tyson-FlHdnPO6dlw-unsplash.jpg");
+    /* background-image: url("/moritz-kindler-mGFHA_0TWnA-unsplash.jpg"); */
+    /* background-image: url("/jon-tyson-FlHdnPO6dlw-unsplash.jpg"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+span {
+    color: green;
+}
